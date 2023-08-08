@@ -1,13 +1,13 @@
 ## R_Project
 
-GR.csv/
+GR.csv
 
-ProjectR.ipynb/
+ProjectR.ipynb
 
-R_Project.EN.pdf/
+R_Project.EN.pdf
 
-R_Project.PT_BR.pdf/
+R_Project.PT_BR.pdf
 
-R_Project.R/
+R_Project.R
 
-Steam Releases.pdf/
+Steam Releases.pdf
